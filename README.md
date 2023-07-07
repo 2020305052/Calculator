@@ -45,5 +45,3 @@ import Calculator
 result = Calculator.divide(20, 5)
 
 print(result)  # 출력: 4
-
-위의 코드와 가이드 문서를 참고하여 라이브러리와 사용법 가이드 문서를 각자의 저장소에 업로드할 수 있습니다.
